@@ -32,7 +32,6 @@ redirect_from:
 
 # 🎓 学历
 - *2016.06 - 2022.12*, <a href="https://vrlab.buaa.edu.cn/"></a> 北京航空航天大学 虚拟现实技术与系统国家重点实验室，博士
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
