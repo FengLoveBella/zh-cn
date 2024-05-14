@@ -6,14 +6,12 @@ main:
   - title: "学历"
     url: "/zh-cn/#-xl"
 
-  - title: "论文专利"
+  - title: "部分论文"
     url: "/zh-cn/#-lwzl"
 
-  - title: "荣誉奖项"
+  - title: "学生奖项"
     url: "/zh-cn/#-ryjx"
 
-  - title: "学术会议"
+  - title: "主讲课程"
     url: "/zh-cn/#-xshy"
 
-  - title: "工作实习"
-    url: "/zh-cn/#-gzsx"
