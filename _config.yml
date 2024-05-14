@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "xx"
-description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "周锋"
+description              : "3D计算机视觉、人工智能、虚拟现实"
+repository               : "FengLoveBella/FengLoveBella.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "xx"
+  name             : "周锋"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "xx科技大学"
-  location         : "湖北 xx"
+  bio              : "北方工业大学"
+  location         : "中国 北京"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ad1_iFMAAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  email            : "zhoufeng@ncut.edu.cn"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "FengLoveBella"
   google_plus      :
   keybase          :
   instagram        :
