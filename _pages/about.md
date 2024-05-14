@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 周锋，毕业于北京航空航天大学虚拟现实技术与系统国家重点实验室，师承沈旭昆和胡勇教授，现在北方工业大学信息学院担任讲师一职。
- <a href='https://scholar.google.com/citations?user=Ad1_iFMAAAAJJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 研究领域涉及3D计算机视觉、人工智能、虚拟现实，主要包括点云分割、点云检测、数字人建模及理解等方向，此外还积极探索在虚拟现实和非遗文化保护等垂直领域的应用研究，包括非遗舞蹈的编排、非遗舞蹈的内容生成等。
 为人风趣，与学生“打”成一片，
