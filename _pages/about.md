@@ -38,7 +38,7 @@ redirect_from:
 # 📝 部分论文
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='fig_AKD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='fig_AKD.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou, Feng`, Qi Zhang, He Zhu, Shibo Liu, Na Jiang, Xingquan Cai, Qianfang Qi, and Yong Hu. "Attentional Keypoint Detection on Point Clouds for 3D Object Part Segmentation." Applied Sciences 13, no. 23 (2023): 12537.
@@ -47,7 +47,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='fig_MSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='fig_MSA.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	 `Zhou, Feng`, Junkai Rao, Pei Shen, Qi Zhang, Qianfang Qi, and Yao Li. "REGNet: Ray-Based Enhancement Grouping for 3D Object Detection Based on Point Cloud." Applied Sciences 13, no. 10 (2023): 6098.
@@ -56,7 +56,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='fig_REG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='fig_REG.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou F`, Hu Y, Shen X. MSANet: multimodal self-augmentation and adversarial network for RGB-D object recognition[J]. The Visual Computer, 2019, 35(11): 1583-1594.
@@ -97,8 +97,7 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 主讲课程
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *本科生课程*, 《虚拟现实技术》、《软件工程》
+- *研究生课程*, 《研究与创新素质提高》
 
 
