@@ -38,7 +38,7 @@ redirect_from:
 # 📝 部分论文
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='fig_AKD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou, Feng`, Qi Zhang, He Zhu, Shibo Liu, Na Jiang, Xingquan Cai, Qianfang Qi, and Yong Hu. "Attentional Keypoint Detection on Point Clouds for 3D Object Part Segmentation." Applied Sciences 13, no. 23 (2023): 12537.
@@ -47,7 +47,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='fig_MSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	 `Zhou, Feng`, Junkai Rao, Pei Shen, Qi Zhang, Qianfang Qi, and Yao Li. "REGNet: Ray-Based Enhancement Grouping for 3D Object Detection Based on Point Cloud." Applied Sciences 13, no. 10 (2023): 6098.
@@ -56,7 +56,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='fig_REG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou F`, Hu Y, Shen X. MSANet: multimodal self-augmentation and adversarial network for RGB-D object recognition[J]. The Visual Computer, 2019, 35(11): 1583-1594.
