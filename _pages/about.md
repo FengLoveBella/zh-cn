@@ -38,7 +38,7 @@ redirect_from:
 # 📝 部分论文
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/fig_AKD.png' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/test.gif' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou, Feng`, Qi Zhang, He Zhu, Shibo Liu, Na Jiang, Xingquan Cai, Qianfang Qi, and Yong Hu. "Attentional Keypoint Detection on Point Clouds for 3D Object Part Segmentation." Applied Sciences 13, no. 23 (2023): 12537.
