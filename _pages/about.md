@@ -48,7 +48,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13</div><img src='fig_MSA.png' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13</div><img src='images/fig_MSA.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	 `Zhou, Feng`, Junkai Rao, Pei Shen, Qi Zhang, Qianfang Qi, and Yao Li. "REGNet: Ray-Based Enhancement Grouping for 3D Object Detection Based on Point Cloud." Applied Sciences 13, no. 10 (2023): 6098.
@@ -57,7 +57,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer, 2019</div><img src='fig_REG.png' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer, 2019</div><img src='images/fig_REG.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou F`, Hu Y, Shen X. MSANet: multimodal self-augmentation and adversarial network for RGB-D object recognition[J]. The Visual Computer, 2019, 35(11): 1583-1594.
