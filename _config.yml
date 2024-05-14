@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "周锋"
-description              : "3D计算机视觉、人工智能、虚拟现实"
+description              : "北方工业大学"
 repository               : "FengLoveBella/FengLoveBella.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "周锋"
   avatar           : "images/touxiang.jpg"
-  bio              : "北方工业大学"
+  bio              : "3D计算机视觉、人工智能、虚拟现实"
   location         : "中国 北京"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
