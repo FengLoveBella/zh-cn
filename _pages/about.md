@@ -29,10 +29,10 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 最新动态
-- *2024.05*, </a> 一篇工作被TVC期刊录用
-- *2024.02*, </a> 一篇工作被LBW CHI2024录用
-- *2023.12*, </a> 一篇工作被ICASSP 2024录用
-- *2023.11*, </a> 一篇工作被Pattern Recognition期刊录用
+- *2024.05*, 一篇工作被TVC期刊录用
+- *2024.02*, 一篇工作被LBW CHI2024录用
+- *2023.12*, 一篇工作被ICASSP 2024录用
+- *2023.11*, 一篇工作被Pattern Recognition期刊录用
  
 <span class='anchor' id='-lwzl'></span>
 
