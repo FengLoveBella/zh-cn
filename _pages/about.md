@@ -95,7 +95,6 @@ redirect_from:
 - Dyke R M, `Zhou F`, Lai Y, et al. SHREC'20: Non-rigid shape correspondence of physically-based deformations[J]. 2020.  
 [[网页]](https://orca.cardiff.ac.uk/id/eprint/134585/)
 
--可直接参考https://scholar.google.com.hk/citations?user=Ad1_iFMAAAAJ&hl=zh-CN
 
 <span class='anchor' id='-ryjx'></span>
 
