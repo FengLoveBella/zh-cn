@@ -48,7 +48,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Extended Abstracts of the CHI Conference </div><img src='images/formationCreator.gif' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Extended Abstracts of the CHI Conference</div><img src='images/formationCreator.gif' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	 Rao J, `Zhou F`, Dai J, et al. FormationCreator: Designing A VR Dance Formation System for Intangible Cultural Heritage Dance[C]//Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. 2024: 1-7.
