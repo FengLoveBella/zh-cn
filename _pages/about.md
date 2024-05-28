@@ -17,21 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-周锋，毕业于北京航空航天大学虚拟现实技术与系统国家重点实验室，师承沈旭昆和胡勇教授，现在北方工业大学信息学院担任讲师一职。<br />
-
-研究领域涉及3D计算机视觉、人工智能、虚拟现实，主要包括点云分割、点云检测、数字人建模及理解等方向，此外还积极探索在虚拟现实和非遗文化保护等垂直领域的应用研究，包括非遗舞蹈的编排、非遗舞蹈的内容生成等。
+周锋，毕业于北京航空航天大学虚拟现实技术与系统国家重点实验室，师从沈旭昆和胡勇教授，2020年加入北方工业大学信息学院担任讲师一职。<br />
 
 
-为人风趣，与学生“打”成一片，
-期待对研究方向感兴趣，愿意反向“push”导师的研究生/本科生加入~
-让我们在学术的道路上一起向“A”而行，一起嗨皮的冲冲冲！
+研究领域涉及3D计算机视觉、人工智能、虚拟现实，主要包括点云分割、点云检测、数字人建模及理解等方向，此外还积极探索在虚拟现实和非遗文化保护等垂直领域的应用研究，包括非遗舞蹈的编排、非遗舞蹈的内容生成等。 主持北京市自然科学基金面上项目1项、北京市教委科技计划一般项目1项、云南省科技计划子项目1项、国家重点实验室开放课题1项。在计算机图形学、人工智能等领域发表论文10余篇。兼任中国计算机学会虚拟现实与可视化技术专业委员会委员、中国仿真学会虚拟技术及应用专业委员会委员、中国电影美术学会虚拟空间专委会委员、中国图学学会数字媒体专委会委员。<br />
+
+目前主要与北航、鹏程以及卡迪夫大学密切合作，期待对研究方向感兴趣，愿意反向“push”导师的研究生/本科生加入~ 让我们在学术的道路上一起向“A”而行，一起嗨皮的冲冲冲！
   
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://vrlab.buaa.edu.cn/"></a> 北京航空航天大学 虚拟现实技术与系统国家重点实验室，博士
+# 🎓 最新动态
+- *2024.05*, </a> 一篇工作被TVC期刊录用
+- *2024.02*, </a> 一篇工作被LBW CHI2024录用
+- *2023.12*, </a> 一篇工作被ICASSP 2024录用
+- *2023.11*, </a> 一篇工作被Pattern Recognition期刊录用
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -41,8 +42,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/test.gif' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Zhou, Feng`, Qi Zhang, He Zhu, Shibo Liu, Na Jiang, Xingquan Cai, Qianfang Qi, and Yong Hu. "Attentional Keypoint Detection on Point Clouds for 3D Object Part Segmentation." Applied Sciences 13, no. 23 (2023): 12537.
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10446600) 
+-	lin, Y., Dai, J., Pan, J., `Zhou, F.`, & Bai, J. (2024). Free editing of Shape and Texture with Deformable Net for 3D Caricature Generation. The Visual Computer, 1-13.
+[[网页]](https://link.springer.com/article/10.1007/s00371-024-03461-9) 
 
 </div>
 </div>
@@ -50,8 +51,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13</div><img src='images/fig_MSA.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	 `Zhou, Feng`, Junkai Rao, Pei Shen, Qi Zhang, Qianfang Qi, and Yao Li. "REGNet: Ray-Based Enhancement Grouping for 3D Object Detection Based on Point Cloud." Applied Sciences 13, no. 10 (2023): 6098.
-[[网页]](https://www.mdpi.com/2076-3417/13/10/6098)
+-	 Rao J, `Zhou F`, Dai J, et al. FormationCreator: Designing A VR Dance Formation System for Intangible Cultural Heritage Dance[C]//Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. 2024: 1-7.
+[[网页]](https://dl.acm.org/doi/full/10.1145/3613905.3651028)
 
 </div>
 </div>
@@ -59,8 +60,17 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Visual Computer, 2019</div><img src='images/fig_REG.png' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Zhou F`, Hu Y, Shen X. MSANet: multimodal self-augmentation and adversarial network for RGB-D object recognition[J]. The Visual Computer, 2019, 35(11): 1583-1594.
-[[网页]](https://link.springer.com/article/10.1007/s00371-018-1559-x)
+-	`Zhou F`, Shen P, Dai J, et al. AHRNet: Attention and heatmap-based regressor for hand pose estimation and mesh recovery[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3000-3004.
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10446600/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Sciences 13,</div><img src='images/test.gif' alt="png" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Dai, J., Li, H., Zeng, R., Bai, J., `Zhou, F.`, & Pan, J. (2023). KD-Former: Kinematic and dynamic coupled transformer network for 3D human motion prediction. Pattern Recognition, 143, 109806.
+[[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005046) 
 
 </div>
 </div>
