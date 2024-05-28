@@ -48,7 +48,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Extended Abstracts of the CHI Conference on Human Factors in Computing Systems</div><img src='images/formationCreator.gif' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Extended Abstracts of the CHI Conference </div><img src='images/formationCreator.gif' alt="png" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	 Rao J, `Zhou F`, Dai J, et al. FormationCreator: Designing A VR Dance Formation System for Intangible Cultural Heritage Dance[C]//Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. 2024: 1-7.
@@ -57,7 +57,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Acoustics</div><img src='images/AHNet.gif' alt="png" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Acoustics</div><img src='images/AHNet.gif' alt="gif" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Zhou F`, Shen P, Dai J, et al. AHRNet: Attention and heatmap-based regressor for hand pose estimation and mesh recovery[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3000-3004.
