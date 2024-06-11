@@ -75,16 +75,21 @@ redirect_from:
 </div>
 </div>
 
+- `Zhou Feng`, J Dai, J Pan, M Zhu, X Cai, B Huang, C Wang, GFENet: Group-Free Enhancement Network for Indoor Scene 3D Object Detection, COMPUTER GRAPHICS INTERNATIONAL 2023.
+[[网页]](https://link.springer.com/chapter/10.1007/978-3-031-50075-6_10)
 
+- `Zhou Feng`, Junkai Rao, Pei Shen, Qi Zhang, Qianfang Qi, and Yao Li. "REGNet: Ray-Based Enhancement Grouping for 3D Object Detection Based on Point Cloud." Applied Sciences 13, no. 10 (2023): 6098.
+[[网页]](https://www.mdpi.com/2076-3417/13/10/6098)
+
+- `Zhou Feng`, Q Zhang, H Zhu, S Liu, N Jiang, X Cai, Q Qi, Y Hu. "Attentional Keypoint Detection on Point Clouds for 3D Object Part Segmentation." Applied Sciences, 13(23), p.12537.
+[[HEML]](https://www.mdpi.com/2076-3417/13/10/6098)
+  
 - Chen, Keng, `Feng Zhou`, Ju Dai, Pei Shen, Xingquan Cai, and Fengquan Zhang. "MCGNet: Multi-Level Context-aware and Geometric-aware Network for 3D Object Detection." In 2022 IEEE International Conference on Image Processing (ICIP), pp. 1846-1850. IEEE, 2022.  
 [[网页]](https://ieeexplore.ieee.org/abstract/document/9897465/)
 
 
 - `F Zhou`, J Dai, J Pan, M Zhu, X Cai, B Huang, C Wang, GFENet: Group-Free Enhancement Network for Indoor Scene 3D Object Detection, COMPUTER GRAPHICS INTERNATIONAL 2023 
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-031-50075-6_10)
-
-- `Zhou, Feng`, Junkai Rao, Pei Shen, Qi Zhang, Qianfang Qi, and Yao Li. "REGNet: Ray-Based Enhancement Grouping for 3D Object Detection Based on Point Cloud." Applied Sciences 13, no. 10 (2023): 6098.
-[[网页]](https://www.mdpi.com/2076-3417/13/10/6098)
 
 - `Zhou, Feng`, Yu-Kun Lai, Paul L. Rosin, Fengquan Zhang, and Yong Hu. "Scale-aware network with modality-awareness for RGB-D indoor semantic segmentation." Neurocomputing 492 (2022): 464-473.
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003903)
@@ -95,6 +100,7 @@ redirect_from:
 - Dyke R M, `Zhou F`, Lai Y, et al. SHREC'20: Non-rigid shape correspondence of physically-based deformations[J]. 2020.  
 [[网页]](https://orca.cardiff.ac.uk/id/eprint/134585/)
 
+- `Zhou Feng`, Hu Y, Shen X. "MSANet: multimodal self-augmentation and adversarial network for RGB-D object recognition." The Visual Computer 35 (11), 1583-1594.
 
 <span class='anchor' id='-ryjx'></span>
 
