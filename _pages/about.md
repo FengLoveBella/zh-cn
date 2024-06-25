@@ -88,9 +88,6 @@ redirect_from:
 [[网页]](https://ieeexplore.ieee.org/abstract/document/9897465/)
 
 
-- `F Zhou`, J Dai, J Pan, M Zhu, X Cai, B Huang, C Wang, GFENet: Group-Free Enhancement Network for Indoor Scene 3D Object Detection, COMPUTER GRAPHICS INTERNATIONAL 2023 
-[[网页]](https://link.springer.com/chapter/10.1007/978-3-031-50075-6_10)
-
 - `Zhou, Feng`, Yu-Kun Lai, Paul L. Rosin, Fengquan Zhang, and Yong Hu. "Scale-aware network with modality-awareness for RGB-D indoor semantic segmentation." Neurocomputing 492 (2022): 464-473.
 [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003903)
 
