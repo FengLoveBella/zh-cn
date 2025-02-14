@@ -29,11 +29,13 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 最新动态
+- *2024.12*, 一篇工作被AAAI2025录用(CCF A)
+- *2024.09*, 一篇工作被TVC期刊录用
 - *2024.07*, 课题组刘超获得蓝桥杯大赛北京赛区一等奖
 - *2024.05*, 一篇工作被TVC期刊录用
-- *2024.02*, 一篇工作被LBW CHI2024录用
-- *2023.12*, 一篇工作被ICASSP 2024录用
-- *2023.11*, 一篇工作被Pattern Recognition期刊录用
+- *2024.02*, 一篇工作被LBW CHI2024录用 (CCF A)
+- *2023.12*, 一篇工作被ICASSP 2024录用 (CCF B)
+- *2023.11*, 一篇工作被Pattern Recognition期刊录用 (CCF B)
  
 <span class='anchor' id='-lwzl'></span>
 
